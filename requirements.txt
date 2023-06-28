@@ -1,6 +1,0 @@
-youtube-dl
-
--r requirements/build.txt
--r requirements/runtime.txt
--r requirements/tests.txt
--r requirements/optional.txt
